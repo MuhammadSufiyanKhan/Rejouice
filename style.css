@@ -502,12 +502,18 @@ h5 {
         font-size: 1.2rem;
     }
 
+    #page5 {
+        height: 60vh;
+        padding: 2vw 0;
+    }
+
     #page5 h1 {
         font-size: 14vw;
     }
 
     #swiperdiv {
-        height: 40vh;
+        height: 35vh;
+        margin-top: -2%;
     }
 
     .swiper {
@@ -588,8 +594,14 @@ h5 {
         height: 50%;
     }
 
+    #page5 {
+        height: 50vh;
+        padding: 1.5vw 0;
+    }
+
     #swiperdiv {
-        height: 30vh;
+        height: 25vh;
+        margin-top: -1%;
     }
 
     .swiper-slide img {
